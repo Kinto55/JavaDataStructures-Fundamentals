@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Computations
+comment0.text=\n\ a\ class\ Computations\ here\ of\ practicing\ loops\n\n\ @author\ (Morris)\n\ @version\ (3/6/21)\n
+comment1.params=stop
+comment1.target=int\ computeEvenSums(int)
+comment1.text=\n\ method\ will\ compute\ the\ sum\ of\ even\ numbers\n\n\ @param\ int\ stop\ \n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment2.params=stop
+comment2.target=int\ sumAllSquares(int)
+comment2.text=\n\ sum\ all\ squares\n\ \n\ @param\ int\ stop\ \n\ @retun\ int\ sum\n\ \n
+comment3.params=start\ stop
+comment3.target=int\ computeOddSums(int,\ int)
+comment3.text=\n\ compute\ all\ odd\ sums\ \n\ @param\ int\ start,\ int\ stop\ \n\ @return\ int\ sum\n
+comment4.params=p
+comment4.target=double\ calculateAllPowers(int)
+comment4.text=\n\ calculate\ all\ of\ the\ powers\ of\ 2(a\ number)\n\ @\ int\ start,\ int\ stop\n\ @return\ double\ power\ \n
+numComments=5

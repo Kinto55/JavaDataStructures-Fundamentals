@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bug
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bug\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=bN
+comment1.target=Bug(int)
+comment1.text=\n\ \n\ Constructor\ of\ objects\ of\ class\ Bug\n
+comment2.params=
+comment2.target=void\ breedBugs()
+comment2.text=\n\ stimulate\ the\ multiplication\ of\ bugs\n\ \n\ @param\ y\ none\ \n\ @return\ none\ \n
+comment3.params=
+comment3.target=void\ sprayBugs()
+comment3.text=\n\ stimulate\ spraying\ of\ these\ bugs\ \n\ \n\ @param\ y\ none\ \n\ @return\ \ \ \ none\ \n
+comment4.params=
+comment4.target=int\ getBugs()
+comment4.text=\n\ will\ retunr\ the\ number\ of\ bugs\ \n\ \n\ @param\ y\ none\ \n\ @return\ int\ number\ of\ bugs\n
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ArrayPractice
+comment0.text=\n\ Write\ a\ description\ of\ class\ ArrayPractice\ here.\n\n\ @author\ (Markintus\ Morris)\n\ @version\ (3/20/21)\n
+comment1.params=num
+comment1.target=ArrayPractice(int[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayPractice\n
+comment2.params=
+comment2.target=void\ printForward()
+comment2.text=\n\ A\ method\ to\ print\ out\ array\ forward\n\n\ @param\ \ none\n\ @return\ \ \ \ none\n
+comment3.params=
+comment3.target=void\ printBackward()
+comment3.text=\n\ A\ method\ to\ print\ out\ array\ backward\n\n\ @param\ \ none\n\ @return\ \ \ \ none\n
+comment4.params=
+comment4.target=void\ printOdd()
+comment4.text=\n\ A\ method\ to\ print\ the\ odd\ elemts\ of\ the\ array\n\n\ @param\ \ none\n\ @return\ \ \ \ none\n
+comment5.params=
+comment5.target=void\ printEven()
+comment5.text=\n\ A\ method\ to\ print\ the\ even\ elemts\ of\ the\ array\n\n\ @param\ \ none\n\ @return\ \ \ \ none\n
+comment6.params=
+comment6.target=void\ printFirstAndLast()
+comment6.text=\n\ A\ method\ to\ print\ the\ even\ elemts\ of\ the\ array\n\n\ @param\ \ none\n\ @return\ \ \ \ none\n
+comment7.params=
+comment7.target=void\ addOne()
+comment7.text=\n\ A\ method\ to\ print\ the\ even\ elemts\ of\ the\ array\n\n\ @param\ \ none\n\ @return\ \ \ \ none\n
+numComments=8

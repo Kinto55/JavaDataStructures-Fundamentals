@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccountWithName
+comment0.text=\n\ Creating\ a\ BankAccount\ class.\n\n\ @author\ (Markintus\ Morris)\n\ @version\ (2/9/21)\n
+comment1.params=
+comment1.target=BankAccountWithName()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BankAccount\n
+comment2.params=initialBalance\ n
+comment2.target=BankAccountWithName(double,\ java.lang.String)
+comment2.text=\ Constructs\ for\ objects\ of\ class\ BankAccount\n\ @\ param\ initial\ balance\ the\ initial\ balance\ \n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=deposits\ money\ into\ the\ bank\ account\n\ @param\ amount\ he\ amount\ deposit\n
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment4.text=\n\ withdraws\ moeny\ form\ your\ bank\ account\n\ \n\ @param\ amount\ the\ amoutnt\ to\ withdraw\n\ @retuen\ \ \ \ \ none\ \n
+comment5.params=
+comment5.target=double\ getbalance()
+comment5.text=\n\ Gets\ the\ current\ balance\ of\ the\ bank\ account\n\ @return\ the\ current\ balance\n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\n\ Return\ the\ name\ of\ the\ account\n\ \n\ @parm\ none\ \n\ @return\ name\n
+numComments=7

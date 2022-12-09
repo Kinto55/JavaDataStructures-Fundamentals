@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Loops
+comment0.text=\n\ We\ are\ practicing\ Loops\ here.\n\n\ @author\ (Markintus\ Morris)\n\ @version\ (3/6/21)\n
+comment1.params=stop
+comment1.target=double\ usingWhileLoops(int)
+comment1.text=\n\ Calculate\ the\ average\ of\ all\ numbers\ from\ 1\ to\ stop\ using\ a\ while\ loop\n\n\ @param\ \ int\ stop\ \n\ @return\ \ \ \ sum/count\n
+comment2.params=stop
+comment2.target=double\ usingForLoops(int)
+comment2.text=\n\ Calculate\ the\ average\ of\ all\ numbers\ from\ 1\ to\ stop\ using\ a\ while\ loop\n\n\ @param\ \ int\ stop\ \n\ @return\ \ \ \ sum/count\n
+comment3.params=stop
+comment3.target=double\ usingDoLoops(int)
+comment3.text=\n\ Calculate\ the\ average\ of\ all\ numbers\ from\ 1\ to\ stop\ using\ a\ while\ loop\n\n\ @param\ \ int\ stop\ \n\ @return\ \ \ \ sum/count\n
+numComments=4
